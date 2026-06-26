@@ -1,6 +1,6 @@
 {
-  "titulo_geovisor": "Geovisor Mesoamérica",
-  "autor_desarrollador": "AFOLU Copernicus",
+  "titulo_geovisor": "Geovisor Biosfera",
+  "autor_desarrollador": "Universidad Zamorano",
   
   // Mapa base por defecto. Descomenta SOLO UNO de los siguientes valores:
   "mapa_base_defecto": "dark",
